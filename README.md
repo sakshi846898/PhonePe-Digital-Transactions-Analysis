@@ -1,54 +1,65 @@
 # 📊 PhonePe Digital Transactions Analysis (Power BI)
 
-An interactive Power BI dashboard that visualizes India’s digital payment trends using the PhonePe dataset.  
-This project focuses on state-wise growth, category performance, user behaviour, and transaction patterns.
+This project contains an interactive Power BI dashboard that analyzes India's digital payment trends using the PhonePe dataset.  
+It highlights state-wise performance, payment categories, user behavior, and year-wise growth insights.
 
 ---
 
 ## 🚀 Project Overview
-The goal of this project is to understand how digital payments vary across Indian states and what factors drive transaction growth.  
-The dashboard provides insights using clean visuals, filters, KPIs, and DAX measures.
+The goal of this project is to understand how digital transactions vary across Indian states and identify the major factors driving growth.  
+The dashboard visually presents KPIs, trends, comparisons, and failure reasons using clean and dynamic visuals.
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** – Dashboard & Visualization  
-- **Excel** – Data Cleaning & Pre-processing  
+## 🛠 Tools & Technologies Used
+- **Power BI Desktop** – Dashboard & Data Visualization  
+- **Excel** – Data Cleaning & Dataset Preparation  
 - **Power Query** – Data Transformation  
-- **DAX** – Custom Calculations (YoY Growth, Averages, Totals)
+- **DAX** – Custom KPIs & Calculations  
 
 ---
 
-## 🔍 Key Features
-- 📍 **State-wise transaction analysis**  
-- 💳 **Category-wise usage & payment trends**  
-- 📈 **Yearly & quarterly growth comparison**  
-- 👥 **User behaviour & transaction volume insights**  
-- 🎛 **Fully interactive dashboard with dynamic filters**  
+## 🔍 Key Features in the Dashboard
+- 📍 **State-wise total transaction amount & volume**  
+- 💳 **Service-wise usage and comparisons**  
+- 📈 **Monthly & yearly trend analysis**  
+- 🔁 **Failed transaction reasons with breakdown**  
+- 👥 **User adoption and category growth**  
+- 🎛 **Interactive slicers, filters, and multi-page report navigation**  
 
 ---
 
 ## 📂 Project Files (Google Drive Links)
 
-### **📌 Power BI Dashboard (PBIX)**
-👉 Download:  
-https://drive.google.com/file/d/19bv0fkNaV2W_OoPxaIPiYloys2gzj34u/view?usp=drive_link
+### 📌 Power BI Dashboard (PBIX) – Provided as ZIP
+Download ZIP → Extract → Open `.pbix` in Power BI Desktop  
+🔗 **Dashboard ZIP File:**  
+https://drive.google.com/file/d/18ByEvRdZnl1ki_hhw29J9rKJM40Vs5TB/view?usp=drive_link
 
-### **📌 Excel Dataset (PhonePe Final Dataset)**
-👉 Download:  
+### 📌 Excel Dataset (PhonePe Data)
+🔗 **Dataset XLSX File:**  
 https://docs.google.com/spreadsheets/d/1h-mJcgzHNRbLgCfhlCwxBSldksuHW9Ge/edit?usp=drive_link&ouid=114520647156908309011&rtpof=true&sd=true
 
 ---
 
-## 📑 Insights Highlighted
-- Karnataka & Maharashtra among top-performing digital payment states  
-- UPI dominates a major share of transactions  
-- Consistent transaction growth from 2020–2023  
-- Clear behavioural differences across regions  
-- Seasonal patterns in transaction volumes  
+## 📑 IMPORTANT — How to View the Dashboard
+To view this Power BI dashboard:
+
+1. Download the **ZIP file**  
+2. Extract it  
+3. Open the extracted `.pbix` file in **Microsoft Power BI Desktop** (Free tool)  
+4. All visuals, filters, KPIs, and pages will load exactly as designed  
+
+---
+
+## 📸 Dashboard Preview (Screenshots)
+*(Optional — You can add screenshots later for better presentation)*
 
 ---
 
 ## 👩‍💻 Created By
 **Sakshi Thakare**  
-Data Analyst | Excel | Power BI | Visualization
+*Data Analyst | Excel | Power BI | Data Visualization*
+
+
+
